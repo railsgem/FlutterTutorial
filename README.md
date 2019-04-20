@@ -10,4 +10,4 @@
 
 
 # [03 Flutter Firebase Push Notification](https://github.com/railsgem/FlutterTutorial/tree/master/03_flutter_firebase_push_notification)
- - [Medium - Flutter Tutorial part3: Push notification with firebase cloud messaging(FCM)](https://medium.com/@jun.chenying/flutter-tutorial-part3-push-notification-with-firebase-cloud-messaging-fcm-69fa9687822)
+ - [Medium - Flutter Tutorial part3: Push notification with firebase cloud messaging(FCM)](https://medium.com/@jun.chenying/flutter-tutorial-part3-push-notification-with-firebase-cloud-messaging-fcm-2fbdd84d3a5e)

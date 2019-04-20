@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+
+## How to run demo
+ - Replace ios/Ruuner/GoogleService-Info.plist with you own setting.
+ - Auto signing with your team id 
+ - Build in physical device
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

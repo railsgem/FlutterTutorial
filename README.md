@@ -11,3 +11,8 @@
 
 # [03 Flutter Firebase Push Notification](https://github.com/railsgem/FlutterTutorial/tree/master/03_flutter_firebase_push_notification)
  - [Medium - Flutter Tutorial part3: Push notification with firebase cloud messaging(FCM)](https://medium.com/@jun.chenying/flutter-tutorial-part3-push-notification-with-firebase-cloud-messaging-fcm-2fbdd84d3a5e)
+ - [Youtube - Flutter Tutorial part3: Push notification with firebase cloud messaging(FCM)](https://www.youtube.com/watch?v=S0w-p1PWD58)
+
+# [04 Flutter - Fetch data and parse JSON With ListView](https://github.com/railsgem/FlutterTutorial/tree/master/04_flutter_http_json)
+
+ ![](./04_flutter_http_json/04_screenshot.png)

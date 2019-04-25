@@ -15,6 +15,6 @@
 
 # [04 Flutter - Fetch data and parse JSON With ListView](https://github.com/railsgem/FlutterTutorial/tree/master/04_flutter_http_json)
 - [Flutter Tutorial Part 4: Http Fetch data and parse JSON with ListView](https://medium.com/@jun.chenying/flutter-tutorial-part-4-http-fetch-data-and-parse-json-with-listview-ba0fb638a0fa) 
- ![](./04_flutter_http_json/04_screenshot.png | width=200)
+ ![](./04_flutter_http_json/04_screenshot.png) 
 
 # [05 Flutter - Listview scroll to loadmore with pagination](https://github.com/railsgem/FlutterTutorial/tree/master/05_flutter_listview_pagination)

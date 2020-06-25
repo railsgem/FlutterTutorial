@@ -80,6 +80,7 @@ print("load more");
                     isLoading = true;
                   });
                 }
+                return true;
               },
               child: ListView.builder(
                 itemCount: items.length,
